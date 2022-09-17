@@ -1,12 +1,14 @@
-## Hi there 👋
+# 📊 Freenalytics
 
-<!--
+An open source, self-hosted dashboard for usage analytics of general use applications.
 
-**Here are some ideas to get you started:**
+## ℹ️ Some Information
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is part of my final college project. I plan on further maintaining this after the official due date which is December 22th, 2022.
+
+## 🌎 Relevant Links
+
+* You can follow the project's progress on this [Trello board](https://trello.com/b/oDg8aD7n).
+* For more information, you can check this project's [website](https://freenalytics.github.io).
+* You can check the API's documentation on [this page](https://freenalytics.github.io/api-docs).
+* If you're interested in checking my other projects, you can my [GitHub profile](https://github.com/moonstar-x).
