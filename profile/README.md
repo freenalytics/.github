@@ -4,7 +4,7 @@ An open source, self-hosted dashboard for usage analytics of general use applica
 
 ## ℹ️ Some Information
 
-This is part of my final college project. I plan on further maintaining this after the official due date which is December 22th, 2022.
+This is part of my final college project. I plan on further maintaining this after the official due date which is December 22nd, 2022.
 
 ## 🌎 Relevant Links
 
